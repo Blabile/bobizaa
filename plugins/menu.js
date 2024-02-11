@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'KAKACHI BOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/81eb3e8a4d13ffb4043ad.jpg',
+thumbnailUrl: 'https://telegra.ph/file/7da23a134430afe8239da.jpg',
 sourceUrl: 'https://instagram.com/saad_bekari_2008',
 mediaType: 1,
 renderLargerThumbnail: true
